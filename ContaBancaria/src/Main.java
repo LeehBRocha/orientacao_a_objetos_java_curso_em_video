@@ -7,8 +7,7 @@ public class Main {
         System.out.println(cliente01.depositar(5000)+"\n");
         System.out.println(cliente01.sacar(500)+"\n");
         System.out.println(cliente01.pagarMensal()+"\n");
-
-
-
+        System.out.println(cliente01.sacar(4538)+"\n");
+        System.out.println(cliente01.fecharConta()+"\n");
     }
 }
